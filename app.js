@@ -1,2 +1,3 @@
-console.log("helle")
+console.log("hello")
 console.log("employee tel")
+consloe.log("hi")
